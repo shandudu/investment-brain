@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">散修宗投资大脑衡镜新版界面预览</title>
+  <desc id="desc">参考 tweakcn 与 shadcn/ui 主题变量的浅色财务研究工作台界面</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#20352f" flood-opacity=".06"/></filter>
+    <linearGradient id="chart" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#2d8065"/><stop offset="1" stop-color="#75b89c"/></linearGradient>
+  </defs>
+  <rect width="1440" height="900" fill="#f5f6f3"/>
+  <rect x="0" y="0" width="236" height="900" fill="#fbfcfa" stroke="#e3e8e3"/>
+  <g font-family="Inter,Segoe UI,Microsoft YaHei,sans-serif" fill="#202825">
+    <g transform="translate(30 32)">
+      <rect width="32" height="32" rx="10" fill="#205e49"/>
+      <path d="M9 23l7-14 7 14-7-4-7 4z" fill="#dceee5"/>
+      <text x="45" y="15" font-size="15" font-weight="750">散修宗</text><text x="45" y="31" font-size="11" fill="#789087">投资大脑 · 衡镜</text>
+    </g>
+    <text x="30" y="104" font-size="10" font-weight="700" letter-spacing="1.4" fill="#9aa7a1">研究工作台</text>
+    <g font-size="13">
+      <rect x="18" y="124" width="200" height="44" rx="10" fill="#e8f3ed"/><text x="48" y="151" font-weight="700" fill="#205e49">◈  财务研究</text>
+      <text x="48" y="199" fill="#65736d">✣  知识大脑</text><text x="48" y="247" fill="#65736d">▣  我的持仓</text><text x="48" y="295" fill="#65736d">⌁  观察清单</text><text x="48" y="343" fill="#65736d">▤  研究档案</text>
+    </g>
+    <line x1="30" y1="390" x2="206" y2="390" stroke="#e3e8e3"/>
+    <text x="30" y="424" font-size="10" font-weight="700" letter-spacing="1.2" fill="#9aa7a1">工作区状态</text>
+    <circle cx="38" cy="456" r="5" fill="#55a17c"/><text x="52" y="460" font-size="12" font-weight="650">本地数据已连接</text><text x="52" y="479" font-size="10" fill="#8c9892">财报截至 2025 年报</text>
+    <g transform="translate(30 820)"><circle cx="17" cy="17" r="17" fill="#d7e5de"/><text x="17" y="22" text-anchor="middle" font-size="13" font-weight="750" fill="#27634e">林</text><text x="46" y="15" font-size="12" font-weight="700">林先生</text><text x="46" y="32" font-size="10" fill="#8c9892">本地工作区</text></g>
+
+    <rect x="236" y="0" width="1204" height="72" fill="#fff" stroke="#e3e8e3"/>
+    <text x="272" y="31" font-size="15" font-weight="750">财务研究工作台</text><text x="272" y="51" font-size="11" fill="#8a9791">让每个结论都有出处</text>
+    <rect x="570" y="19" width="300" height="34" rx="9" fill="#f7f8f6" stroke="#e4e9e4"/><text x="590" y="41" font-size="12" fill="#a2ada7">⌕  搜索公司、代码或行业</text>
+    <rect x="1082" y="18" width="124" height="36" rx="9" fill="#f7f8f6" stroke="#e4e9e4"/><text x="1098" y="34" font-size="9" fill="#9aa59f">分析引擎</text><text x="1098" y="48" font-size="12" font-weight="700">✦ Codex  ˅</text>
+    <rect x="1220" y="18" width="150" height="36" rx="9" fill="#eff8f2" stroke="#d8eadf"/><circle cx="1238" cy="36" r="4" fill="#4ba174"/><text x="1250" y="40" font-size="11" font-weight="650" fill="#317458">数据已连接</text>
+
+    <g transform="translate(270 100)">
+      <text x="0" y="14" font-size="11" font-weight="700" letter-spacing="1.2" fill="#9aa7a1">COMPANY RESEARCH</text>
+      <text x="0" y="54" font-size="30" font-weight="780">中国神华</text><text x="160" y="52" font-size="13" fill="#8b9892">601088 · 上海</text><rect x="270" y="31" width="70" height="25" rx="7" fill="#eef3ef"/><text x="285" y="48" font-size="11" fill="#557168">煤炭开采</text>
+      <text x="0" y="79" font-size="12" fill="#7e8b85">真实财务数据已接入 · 一般非金融企业模板</text>
+      <text x="956" y="35" text-anchor="end" font-size="24" font-weight="760">¥ 42.36</text><text x="956" y="58" text-anchor="end" font-size="12" fill="#3d8c67">+0.86%  ·  2026-08-18</text>
+      <rect x="0" y="106" width="1020" height="42" rx="9" fill="#fff" stroke="#e3e8e3"/>
+      <text x="22" y="132" font-size="12" font-weight="700" fill="#205e49">财务透视</text><text x="127" y="132" font-size="12" fill="#7d8a84">估值与情景</text><text x="238" y="132" font-size="12" fill="#7d8a84">知识库观点</text><text x="358" y="132" font-size="12" fill="#7d8a84">公告与治理</text><text x="952" y="132" text-anchor="end" font-size="10" fill="#a1ada7">LIVE-601088-20260818</text>
+      <rect x="0" y="144" width="90" height="2" fill="#2d8065"/>
+    </g>
+
+    <g transform="translate(270 286)">
+      <rect width="1020" height="84" rx="12" fill="#edf7f1" stroke="#dcece3"/><rect x="0" y="0" width="5" height="84" rx="3" fill="#2d8065"/>
+      <text x="24" y="27" font-size="10" font-weight="750" letter-spacing="1.1" fill="#4a8069">一句话结论</text><text x="24" y="53" font-size="15" font-weight="700">先看证据质量，再看估值空间。</text><text x="285" y="53" font-size="13" fill="#63756d">当前页面展示标准化财务事实与系统计算结果，建议结合持仓条件复核。</text>
+      <text x="942" y="28" text-anchor="end" font-size="10" fill="#6d897d">数据质量</text><text x="942" y="57" text-anchor="end" font-size="23" font-weight="780" fill="#205e49">92</text><text x="965" y="57" font-size="11" fill="#789087">/100</text>
+    </g>
+
+    <text x="270" y="408" font-size="17" font-weight="760">五项财务诊断</text><text x="1290" y="407" text-anchor="end" font-size="11" fill="#8b9892">系统计算 · 不使用跨行业综合评分</text>
+    <g transform="translate(270 429)">
+      <g><rect width="194" height="130" rx="11" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="18" y="25" font-size="10" fill="#9aa7a1">01  ·  盈利质量</text><text x="18" y="55" font-size="16" font-weight="750">ROIC 16.8%</text><text x="18" y="77" font-size="11" fill="#7b8982">ROE 18.4%  ·  毛利率 34.6%</text><rect x="18" y="99" width="158" height="5" rx="3" fill="#e6efe9"/><rect x="18" y="99" width="129" height="5" rx="3" fill="#4d9a78"/><text x="18" y="121" font-size="10" fill="#4d9a78">已计算</text></g>
+      <g transform="translate(207 0)"><rect width="194" height="130" rx="11" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="18" y="25" font-size="10" fill="#9aa7a1">02  ·  现金质量</text><text x="18" y="55" font-size="16" font-weight="750">现金含量 1.18×</text><text x="18" y="77" font-size="11" fill="#7b8982">自由现金流 601 亿元</text><rect x="18" y="99" width="158" height="5" rx="3" fill="#e6efe9"/><rect x="18" y="99" width="145" height="5" rx="3" fill="#4d9a78"/><text x="18" y="121" font-size="10" fill="#4d9a78">已计算</text></g>
+      <g transform="translate(414 0)"><rect width="194" height="130" rx="11" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="18" y="25" font-size="10" fill="#9aa7a1">03  ·  资产负债</text><text x="18" y="55" font-size="16" font-weight="750">净现金 1,168 亿</text><text x="18" y="77" font-size="11" fill="#7b8982">流动比率 2.31×</text><rect x="18" y="99" width="158" height="5" rx="3" fill="#e6efe9"/><rect x="18" y="99" width="136" height="5" rx="3" fill="#4d9a78"/><text x="18" y="121" font-size="10" fill="#4d9a78">已计算</text></g>
+      <g transform="translate(621 0)"><rect width="194" height="130" rx="11" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="18" y="25" font-size="10" fill="#9aa7a1">04  ·  资本配置</text><text x="18" y="55" font-size="16" font-weight="750">分红覆盖 1.29×</text><text x="18" y="77" font-size="11" fill="#7b8982">派息率 75.2%</text><rect x="18" y="99" width="158" height="5" rx="3" fill="#f3ead8"/><rect x="18" y="99" width="112" height="5" rx="3" fill="#c0913c"/><text x="18" y="121" font-size="10" fill="#a8792b">需观察</text></g>
+      <g transform="translate(828 0)"><rect width="192" height="130" rx="11" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="18" y="25" font-size="10" fill="#9aa7a1">05  ·  治理审计</text><text x="18" y="55" font-size="16" font-weight="750">数据质量 92/100</text><text x="18" y="77" font-size="11" fill="#7b8982">标准化 · 可追溯</text><rect x="18" y="99" width="156" height="5" rx="3" fill="#e6efe9"/><rect x="18" y="99" width="142" height="5" rx="3" fill="#4d9a78"/><text x="18" y="121" font-size="10" fill="#4d9a78">清晰</text></g>
+    </g>
+
+    <g transform="translate(270 590)">
+      <rect width="610" height="250" rx="12" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="24" y="31" font-size="16" font-weight="750">财务趋势</text><text x="24" y="51" font-size="10" letter-spacing="1" fill="#9aa7a1">5-YEAR TREND</text><rect x="440" y="16" width="145" height="28" rx="7" fill="#f4f7f4"/><text x="455" y="34" font-size="11" fill="#205e49">利润  ·  现金流  ·  回报率</text>
+      <line x1="30" y1="193" x2="585" y2="193" stroke="#ebefeb"/><line x1="30" y1="147" x2="585" y2="147" stroke="#ebefeb"/><line x1="30" y1="101" x2="585" y2="101" stroke="#ebefeb"/>
+      <path d="M40 176 C100 162 112 123 170 140 S235 112 285 128 S350 82 405 103 S470 70 565 88" fill="none" stroke="url(#chart)" stroke-width="3"/><path d="M40 191 C105 181 125 160 170 173 S240 145 285 165 S345 139 405 149 S480 124 565 139" fill="none" stroke="#a8c6b7" stroke-width="2.5" stroke-dasharray="5 5"/>
+      <g fill="#718079" font-size="10"><text x="36" y="219">2021</text><text x="165" y="219">2022</text><text x="275" y="219">2023</text><text x="395" y="219">2024</text><text x="545" y="219">2025</text></g><circle cx="42" cy="176" r="4" fill="#2d8065"/><circle cx="565" cy="88" r="4" fill="#2d8065"/><text x="470" y="72" font-size="10" fill="#2d8065">现金增长快于利润</text>
+    </g>
+    <g transform="translate(900 590)">
+      <rect width="390" height="250" rx="12" fill="#fff" stroke="#e1e7e2" filter="url(#shadow)"/><text x="24" y="31" font-size="16" font-weight="750">三情景估值</text><text x="24" y="51" font-size="10" letter-spacing="1" fill="#9aa7a1">DCF · 公式与假设可追踪</text><text x="330" y="31" text-anchor="end" font-size="11" fill="#7b8982">当前价</text><text x="350" y="53" text-anchor="end" font-size="17" font-weight="750">¥42.36</text>
+      <g transform="translate(24 76)"><rect width="342" height="42" rx="8" fill="#fff8ee" stroke="#f0dfc2"/><text x="16" y="18" font-size="11" fill="#9a722f">压力情景</text><text x="16" y="34" font-size="13" font-weight="700">¥31.2 — 36.8</text><text x="318" y="27" text-anchor="end" font-size="11" fill="#a8792b">−17.3%</text></g>
+      <g transform="translate(24 126)"><rect width="342" height="42" rx="8" fill="#edf7f1" stroke="#dcece3"/><text x="16" y="18" font-size="11" fill="#3d8063">基准情景</text><text x="16" y="34" font-size="13" font-weight="700">¥40.8 — 48.6</text><text x="318" y="27" text-anchor="end" font-size="11" fill="#3d8063">+5.5%</text></g>
+      <g transform="translate(24 176)"><rect width="342" height="42" rx="8" fill="#f3f5fb" stroke="#dfe4f2"/><text x="16" y="18" font-size="11" fill="#596b9a">乐观情景</text><text x="16" y="34" font-size="13" font-weight="700">¥51.4 — 58.2</text><text x="318" y="27" text-anchor="end" font-size="11" fill="#596b9a">+29.4%</text></g>
+    </g>
+  </g>
+</svg>

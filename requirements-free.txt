@@ -1,0 +1,3 @@
+# Optional free-first A-share data providers.
+akshare>=1.18.0
+baostock>=0.9.3
